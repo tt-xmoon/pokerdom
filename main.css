@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@100;200;400;600&display=swap');
 
+/* Основание фон*/
 body{
     background: #e5e5e5;
 }
@@ -106,14 +107,10 @@ body{
     left: -1px;
     top: 3630px;
 }
+ 
 
-#t1{
-    position: absolute;
-    width: 93px;
-    height: 17px;
-    left: 56px;
-    top: 23px;
-    
+/*Шапка 1*/
+.text1{   
     font-family: 'Exo 2', sans-serif;
     font-style: normal;
     font-weight: normal;
@@ -121,4 +118,145 @@ body{
     line-height: 17px;
     
     color: #406665;
+}
+
+#t1{
+    position: absolute;
+    width: 93px;
+    height: 17px;
+    left: 56px;
+    top: 23px;
+}
+
+#t2{
+    position: absolute;
+    width: 74px;
+    height: 17px;
+    left: 182px;
+    top: 23px;
+}
+
+
+#log{
+    position: absolute;
+    width: 46.36px;
+    height: 46.34px;
+    left: 56px;
+    top: 70px;
+}
+
+
+.menu1{
+    font-family: 'Exo 2', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #FFFFFF;
+}
+
+#menu11{
+    position: absolute;
+    width: 84px;
+    height: 29px;
+    left: 393px;
+    top: 75px;
+}
+
+#menu12{
+    position: absolute;
+    width: 94px;
+    height: 29px;
+    left: 507px;
+    top: 75px;
+}
+
+#menu13{
+    position: absolute;
+    width: 120px;
+    height: 29px;
+    left: 631px;
+    top: 75px;
+}
+
+#menu14{
+    position: absolute;
+    width: 88px;
+    height: 29px;
+    left: 781px;
+    top: 75px;
+}
+
+#menu15{
+    position: absolute;
+    width: 220px;
+    height: 29px;
+    left: 899px;
+    top: 75px;
+}
+
+#menu16{
+    position: absolute;
+    width: 218px;
+    height: 29px;
+    left: 1149px;
+    top: 75px;
+}
+
+#input{
+    position: absolute;
+    width: 58px;
+    height: 29px;
+    left: 1533px;
+    top: 76px;
+    
+    font-family: 'Exo 2', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #406665;
+}
+
+#inBl{
+    position: absolute;
+    width: 181px;
+    height: 48px;
+    left: 1471px;
+    top: 70px;
+
+    border: 1px solid #406665;
+    box-sizing: border-box;
+    border-radius: 28px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+#input1{
+    position: absolute;
+    width: 151px;
+    height: 29px;
+    left: 1698px;
+    top: 76px;
+    
+    font-family: 'Exo 2', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #FFFFFF;
+}
+
+#inBl1{
+    position: absolute;
+    width: 181px;
+    height: 48px;
+    left: 1683px;
+    top: 70px;
+
+    background: #2ECC71;
+    border-radius: 20px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
 }
