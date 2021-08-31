@@ -260,3 +260,38 @@ body{
     border-radius: 20px;
     transform: matrix(1, 0, 0, -1, 0, 0);
 }
+
+/*Шапка 2*/
+.menu2{
+    font-family: 'Exo 2', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #FFFFFF;
+}
+
+#menu21{
+    position: absolute;
+    width: 74px;
+    height: 29px;
+    left: 306px;
+    top: 207px;    
+}
+
+#menu22{
+    position: absolute;
+    width: 62px;
+    height: 29px;
+    left: 418px;
+    top: 207px;    
+}
+
+#menu23{
+    position: absolute;
+    width: 59px;
+    height: 29px;
+    left: 518px;
+    top: 207px;    
+}
