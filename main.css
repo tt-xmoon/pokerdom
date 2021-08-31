@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@100;200;400;600&display=swap');
+
+body{
+    background: #e5e5e5;
+}
+
+* { 
+    margin: 0; /* внешний отступ */
+    padding: 0; /* внутрений отступ */ 
+}
+
+.block{
+    background: #FFFFFF;
+    box-shadow: 5px 5px 15px 4px rgba(0, 0, 0, 0.25);
+}
+
+.block2{
+    background: #000000;
+}
+
+#shapka{
+    position: absolute;
+    width: 1920px;
+    height: 186px;
+    left: 0px;
+    top: 0px;
+}
+
+#shapka2{
+    position: absolute;
+    width: 1920px;
+    height: 71px;
+    left: 0px;
+    top: 186px;
+
+    background: linear-gradient(270deg, #00FC65 0%, #00933F 100%);
+}
+
+#osnova{
+    position: absolute;
+    width: 1200px;
+    height: 1668px;
+    left: 149px;
+    top: 299px;
+}
+
+#poisk{
+    position: absolute;
+    width: 401px;
+    height: 75px;
+    left: 1408px;
+    top: 298px;
+
+    background: #000000;
+    box-shadow: 5px 5px 15px 4px rgba(0, 0, 0, 0.25);
+}
+
+#akcii{
+    position: absolute;
+    width: 401px;
+    height: 68px;
+    left: 1408px;
+    top: 401px;
+
+    background: #000000;
+    border: 1px solid #2ECC71;
+    box-sizing: border-box;
+}
+
+#akcii2{
+    position: absolute;
+    width: 400px;
+    height: 870px;
+    left: 1409px;
+    top: 469px;
+}
+
+#comm1{
+    position: absolute;
+    width: 1200px;
+    height: 266px;
+    left: 144px;
+    top: 2061px;
+}
+
+#comm2{
+    position: absolute;
+    width: 1200px;
+    height: 266px;
+    left: 140px;
+    top: 2366px;
+}
+
+#comm3{
+    position: absolute;
+    width: 1200px;
+    height: 908px;
+    left: 144px;
+    top: 2677px;
+}
+
+#opisanie{
+    position: absolute;
+    width: 1916px;
+    height: 765px;
+    left: -1px;
+    top: 3630px;
+}
+
+#t1{
+    position: absolute;
+    width: 93px;
+    height: 17px;
+    left: 56px;
+    top: 23px;
+    
+    font-family: 'Exo 2', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    
+    color: #406665;
+}
