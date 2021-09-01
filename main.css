@@ -476,3 +476,171 @@ body{
     left: 963px;
     top: 1891px;
 }
+
+/*Правая часть*/
+/*Поиск*/
+form{
+    position: absolute;
+    width: 317px;
+    height: 54px;
+    left: 1419px;
+    top: 308px;
+
+    font-family: 'Exo 2', sans-serif;
+}
+input {
+  width: 100%;
+  height: 42px;
+  padding-left: 10px;
+  outline: none;
+}
+button{
+  position: absolute;
+  top: 0;
+  right: -45px;
+  width: 42px;
+  height: 42px;
+  cursor: pointer;
+  background: black;
+}
+
+/*Акции*/
+#akc{
+    position: absolute;
+    width: 71px;
+    height: 29px;
+    left: 1440px;
+    top: 420px;
+
+    font-family: 'Exo 2', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #FFFFFF; 
+}
+#sk{
+    position: absolute;
+    width: 181px;
+    height: 48px;
+    left: 1518px;
+    top: 1203px;
+    
+    background: #2ECC71;
+    border-radius: 20px;
+}
+
+#reg{
+    position: absolute;
+    width: 181px;
+    height: 48px;
+    left: 1518px;
+    top: 1270px;
+    
+    background: #406665;
+    border: 1px solid #406665;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+#txt1{
+    position: absolute;
+    width: 151px;
+    height: 29px;
+    left: 1560px;
+    top: 1212px;
+
+    font-family: 'Exo 2', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #FFFFFF;    
+}
+#txt2{
+    position: absolute;
+    width: 151px;
+    height: 29px;
+    left: 1534px;
+    top: 1275px;
+
+    font-family: 'Exo 2', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #FFFFFF;   
+}
+
+#rul1{
+    position: absolute;
+    width: 375px;
+    height: 175px;
+    left: 1421px;
+    top: 484px;
+}
+
+#rul2{
+    position: absolute;
+    width: 375px;
+    height: 175px;
+    left: 1421px;
+    top: 719px;
+}
+
+#rul3{
+    position: absolute;
+    width: 375px;
+    height: 175px;
+    left: 1421px;
+    top: 954px;
+
+}
+
+#trul1{
+    position: absolute;
+    width: 226px;
+    height: 26px;
+    left: 1421px;
+    top: 666px;
+
+    font-family: 'Exo 2', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 26px;
+
+    color: #2ECC71;
+}
+#trul2{
+    position: absolute;
+    width: 226px;
+    height: 26px;
+    left: 1421px;
+    top: 901px;
+
+    font-family: 'Exo 2', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 26px;
+
+    color: #2ECC71;
+}
+#trul3{
+    position: absolute;
+    width: 226px;
+    height: 26px;
+    left: 1421px;
+    top: 1136px;
+
+    font-family: 'Exo 2', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 26px;
+
+    color: #2ECC71;
+}
