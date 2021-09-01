@@ -295,3 +295,184 @@ body{
     left: 518px;
     top: 207px;    
 }
+
+/* Основная часть*/
+#gl{
+    position: absolute;
+    width: 125px;
+    height: 16px;
+    left: 205px;
+    top: 323px;
+    color: #2ECC71;
+}
+#pros{
+    position: absolute;
+    width: 67px;
+    height: 21px;
+    left: 1245px;
+    top: 322px;
+}
+
+#zag1{
+    position: absolute;
+    width: 208px;
+    height: 42.66px;
+    left: 205px;
+    top: 353px;
+
+    font-family: 'Exo 2', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 43px;
+
+    color: #2ECC71;
+}
+
+#zag2{
+    position: absolute;
+    width: 166px;
+    height: 33.73px;
+    left: 206px;
+    top: 426.42px;
+
+    font-family: 'Exo 2', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 34px;
+
+    color: #2ECC71;
+}
+
+#zag3{
+    position: absolute;
+    width: 142px;
+    height: 28.77px;
+    left: 205px;
+    top: 490.92px;
+
+    font-family: 'Exo 2', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #2ECC71;
+}
+
+#blog1{
+    position: absolute;
+    width: 1091px;
+    height: 547.7px;
+    left: 205px;
+    top: 584.18px;
+
+    font-family: 'Exo 2', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #000000; 
+}
+
+#im1{
+    position: absolute;
+    width: 319px;
+    height: 409.78px;
+    left: 593px;
+    top: 1131.88px;
+
+    background: url(image.png);
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+#blog2{
+    position: absolute;
+    width: 1095px;
+    height: 241.11px;
+    left: 201px;
+    top: 1603.18px;
+
+    font-family: 'Exo 2', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #000000; 
+}
+/* Оценка*/
+#star1{
+    position: absolute;
+    width: 275px;
+    height: 39px;
+    left: 615px;
+    top: 1832.33px;
+}
+#star2{
+    position: absolute;
+    width: 275px;
+    height: 39px;
+    left: 685px;
+    top: 1832.33px;
+}
+#star3{
+    position: absolute;
+    width: 275px;
+    height: 39px;
+    left: 755px;
+    top: 1832.33px;
+}
+#star4{
+    position: absolute;
+    width: 275px;
+    height: 39px;
+    left: 825px;
+    top: 1832.33px;
+}
+#star5{
+    position: absolute;
+    width: 275px;
+    height: 39px;
+    left: 895px;
+    top: 1832.33px;
+}
+
+/* Соц сети*/
+#vk{
+    position: absolute;
+    width: 628px;
+    height: 50.03px;
+    left: 439px;
+    top: 1891px;
+}
+#tg{
+    position: absolute;
+    width: 628px;
+    height: 50.03px;
+    left: 570px;
+    top: 1891px;
+}
+#ok{
+    position: absolute;
+    width: 628px;
+    height: 50.03px;
+    left: 701px;
+    top: 1891px;
+}
+#fb{
+    position: absolute;
+    width: 628px;
+    height: 50.03px;
+    left: 832px;
+    top: 1891px;
+}
+#tw{
+    position: absolute;
+    width: 628px;
+    height: 50.03px;
+    left: 963px;
+    top: 1891px;
+}
