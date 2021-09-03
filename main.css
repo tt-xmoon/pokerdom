@@ -644,3 +644,536 @@ button{
 
     color: #2ECC71;
 }
+
+#kom1{
+    position: absolute;
+        width: 1201px;
+        height: 105px;
+        left: 143px;
+        top: 2060px;
+
+        background: #000000;
+}
+#kom2{
+    position: absolute;
+    width: 1201px;
+    height: 105px;
+    left: 139px;
+    top: 2365px;
+
+    background: #000000;
+}
+#kom3{
+    position: absolute;
+    width: 1200px;
+    height: 71px;
+    left: 144px;
+    top: 2677px;
+
+    background: #000000;
+}
+#tkom1{
+    position: absolute;
+    width: 83px;
+    height: 29px;
+    left: 288.47px;
+    top: 2077.47px;
+
+    font-family: 'Exo 2', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #FFFFFF;
+}
+#tkom2{
+    position: absolute;
+    width: 83px;
+    height: 29px;
+    left: 284.47px;
+    top: 2382.47px;
+
+    font-family: 'Exo 2', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #FFFFFF;
+}
+#tkom3{
+    position: absolute;
+    width: 328px;
+    height: 29px;
+    left: 192px;
+    top: 2698px;
+
+    font-family: 'Exo 2', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #FFFFFF;
+}
+#tkom11{
+    position: absolute;
+    width: 150px;
+    height: 22px;
+    left: 288.47px;
+    top: 2122.47px;
+
+    font-family: 'Exo 2', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    
+    color: #2ECC71;
+}
+#tkom21{
+    position: absolute;
+    width: 150px;
+    height: 22px;
+    left: 284.47px;
+    top: 2427.47px;
+
+    font-family: 'Exo 2', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    
+    color: #2ECC71;
+}
+#tkom31{
+    position: absolute;
+    width: 431px;
+    height: 22px;
+    left: 192px;
+    top: 2778px;
+
+    font-family: 'Exo 2', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    
+    color: #000000;
+}
+#tkom12{
+    position: absolute;
+    left: 173px;
+    right: 87.22%;
+    top: 2077px;
+    bottom: 51.06%;
+
+    background: #2ECC71;
+}
+#tkom22{
+    position: absolute;
+    left: 169px;
+    right: 87.22%;
+    top: 2382px;
+    bottom: 51.06%;
+
+    background: #2ECC71;
+}
+#tkom13{
+    position: absolute;
+    width: 1085px;
+    height: 76px;
+    left: 201px;
+    top: 2212px;
+
+    font-family: 'Exo 2', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+
+    color: #000000;
+}
+#tkom23{
+    position: absolute;
+    width: 1085px;
+    height: 76px;
+    left: 197px;
+    top: 2517px;
+
+    font-family: 'Exo 2', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+
+    color: #000000;
+}
+#tkom32{
+    position: absolute;
+    width: 164px;
+    height: 29px;
+    left: 192px;
+    top: 2822px;
+
+    font-family: 'Exo 2', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+  
+    color: #000000;
+}
+#tkom33{
+    position: absolute;
+    width: 54px;
+    height: 29px;
+    left: 192px;
+    top: 3186px;
+
+    font-family: 'Exo 2', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+  
+    color: #000000;
+}
+#tkom34{
+    position: absolute;
+    width: 67px;
+    height: 29px;
+    left: 192px;
+    top: 3334px;
+
+    font-family: 'Exo 2', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+  
+    color: #000000;
+}
+#otkom{
+    position: absolute;
+    width: 181px;
+    height: 48px;
+    left: 192px;
+    top: 3530px;
+
+    background: #2ECC71;
+    border-radius: 10px;
+}
+#otkom1{
+    position: absolute;
+    width: 181px;
+    height: 48px;
+    left: 223px;
+    top: 3539px;
+
+    font-family: 'Exo 2', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #FFFFFF;
+}
+#fkom{
+    position: absolute;
+    width: 1080px;
+    height: 288px;
+    left: 192px;
+    top: 2868px;
+
+    background: #F5F5F5;
+    border: 1px solid #2ECC71;
+    box-sizing: border-box;
+}
+#nkom{
+    position: absolute;
+    width: 1080px;
+    height: 72px;
+    left: 192px;
+    top: 3232px;
+
+    background: #F5F5F5;
+    border: 1px solid #2ECC71;
+    box-sizing: border-box;
+}
+#mkom{
+    position: absolute;
+    width: 1080px;
+    height: 72px;
+    left: 192px;
+    top: 3380px;
+
+    background: #F5F5F5;
+    border: 1px solid #2ECC71;
+    box-sizing: border-box;
+}
+
+/* Нижняя часть */
+#opis{
+    position: absolute;
+    width: 500px;
+    height: 78px;
+    left: 397px;
+    top: 3702px;
+
+    font-family: 'Exo 2', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 10px;
+    line-height: 12px;
+
+    color: #406665;
+}
+#opisen{
+   position: absolute;
+    width: 500px;
+    height: 47px;
+    left: 1138px;
+    top: 3714px;
+
+    font-family: 'Exo 2', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 10px;
+    line-height: 12px;
+
+    color: #406665;
+}
+#plus18{
+    position: absolute;
+    left: 941px;
+    right: 44.11%;
+    top: 3670px;
+    bottom: 13.43%;
+}
+.styletxt{
+     font-family: 'Exo 2', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #FFFFFF;
+}
+#opis1{
+    position: absolute;
+    width: 149px;
+    height: 29px;
+    left: 152px;
+    top: 3845px;
+}
+#vopr{
+    position: absolute;
+    width: 271px;
+    height: 29px;
+    left: 151px;
+    top: 4214px;
+}
+#kateg{
+    position: absolute;
+    width: 131px;
+    height: 29px;
+    left: 457px;
+    top: 3845px;
+}
+#podder{
+    position: absolute;
+    width: 236px;
+    height: 29px;
+    left: 557px;
+    top: 4214px;
+}
+#social{
+    position: absolute;
+    width: 400px;
+    height: 150px;
+    left: 1460px;
+    top: 4214px;
+}
+#oplata{
+    position: absolute;
+    width: 420px;
+    height: 29px;
+    left: 794px;
+    top: 3837px;
+}
+
+.styleops{
+    font-family: 'Exo 2', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #406665;
+}
+#bvers{
+    position: absolute;
+    width: 218px;
+    height: 29px;
+    left: 152px;
+    top: 3897px;
+}
+#otzig{
+    position: absolute;
+    width: 186px;
+    height: 29px;
+    left: 152px;
+    top: 3949px;
+}
+#frir{
+    position: absolute;
+    width: 120px;
+    height: 29px;
+    left: 152px;
+    top: 4005px;
+}
+#bonus{
+    position: absolute;
+    width: 84px;
+    height: 29px;
+    left: 152px;
+    top: 4061px;
+}
+#zerkalo{
+    position: absolute;
+    width: 94px;
+    height: 29px;
+    left: 151px;
+    top: 4117px;
+}
+#mailad{
+    position: absolute;
+    width: 288px;
+    height: 29px;
+    left: 151px;
+    top: 4266px;
+}
+#akcs{
+    position: absolute;
+    width: 71px;
+    height: 29px;
+    left: 457px;
+    top: 3897px;
+}
+#faq{
+    position: absolute;
+    width: 59px;
+    height: 29px;
+    left: 457px;
+    top: 3949px;
+}
+#mailpod{
+    position: absolute;
+    width: 251px;
+    height: 29px;
+    left: 557px;
+    top: 4266px;
+}
+#partner{
+    position: absolute;
+    width: 366px;
+    height: 29px;
+    left: 946px;
+    top: 4214px;
+}
+#partners{
+    position: absolute;
+    width: 203px;
+    height: 29px;
+    left: 946px;
+    top: 4266px;
+
+    font-family: 'Exo 2', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #9343CC;
+}
+#mytg{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 1504px;
+    top: 4260px;
+}
+#mymes{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 1615px;
+    top: 4260px;
+}
+
+/*Способы оплаты*/
+#mcard{
+    position: absolute;
+    width: 99.66px;
+    height: 60px;
+    left: 794px;
+    top: 3907px;    
+}
+#visa{
+    position: absolute;
+    left: 794px;
+    right: 39.69%;
+    top: 4005px;
+    bottom: 7.45%;
+}
+#neteller{
+    position: absolute;
+    width: 170px;
+    height: 27px;
+    left: 928px;
+    top: 3928px;
+}
+#wmoney{
+    position: absolute;
+    left: 928px;
+    right: 39.69%;
+    top: 4005px;
+    bottom: 7.45%;
+}
+#qiwi{
+    position: absolute;
+    width: 129px;
+    height: 60px;
+    left: 1133px;
+    top: 3907px;
+}
+#yamoney{
+   position: absolute;
+    width: 172.28px;
+    height: 60px;
+    left: 1202px;
+    top: 4006px; 
+}
+#skrill{
+    position: absolute;
+    left: 1297px;
+    right: 27.61%;
+    top: 3917px;
+    bottom: 10.05%;
+}
+#monetix{
+    position: absolute;
+    width: 344.37px;
+    height: 60px;
+    left: 1418px;
+    top: 4008px;
+}
+#sms{
+    position: absolute;
+    width: 68.43px;
+    height: 60px;
+    left: 1425px;
+    top: 3909px;
+}
